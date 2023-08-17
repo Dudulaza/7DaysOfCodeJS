@@ -1,6 +1,6 @@
 # 7DaysOfCodeJS
 
-DESAFIO DE: Rafa Ballerini
+Desafio de: Rafa Ballerini
 ------------------------------------------------------------------------------------------------------------------------------------------------
 Dia 1:
 Operacões Booleanas
